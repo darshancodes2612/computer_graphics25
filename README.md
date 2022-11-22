@@ -1,2 +1,2 @@
-# computer_graphics25
+# graphics_mini_project
 A mini project for computer graphics. 
